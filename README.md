@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/22736436/82777299-182f8480-9e24-11ea-8505-fd90b9772fb9.png"/>
 </p>
 <h1 align="center">
-  Estudos a respeito do curso para Fullstack Master - DevPleno  
+  Estudos a respeito do curso para Fullstack Master
 </h1>
 
 Repositório de códigos de estudos do curso Fullstack Master - DevPleno
@@ -19,6 +19,6 @@ Repositório de códigos de estudos do curso Fullstack Master - DevPleno
 - Injeção de dependências;
 - Exercícios concluidos sobre testes com módulos em Javascript;
 
-## :warning: Documentação em desenvolviento;
+## :warning: Documentação em desenvolvimento;
 
 ## :yellow_heart: Powered by: Tulio Faria :)
