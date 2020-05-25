@@ -19,6 +19,9 @@ Repositório de códigos de estudos do curso Fullstack Master - DevPleno
 - Injeção de dependências;
 - Exercícios concluidos sobre testes com módulos em Javascript;
 
+## :memo: Licença 
+Under MIT -  [LICENSE.md](LICENSE.md)
+
 ## :warning: Documentação em desenvolvimento;
 
 ## :yellow_heart: Powered by: Tulio Faria :)
