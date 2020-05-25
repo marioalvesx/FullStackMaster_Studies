@@ -9,11 +9,11 @@ Repositório de códigos de estudos do curso Fullstack Master - DevPleno
 
 ## :rocket: Sumário - Comece por aqui!
 
-[x] Módulo 4:
+- [x] Módulo 4:
 
-[x] Módulo 5:
+- [x] Módulo 5:
 
-[x] Módulo 6:
+- [x] Módulo 6:
 - Funções assíncronas e seus poderes;
 - Testes em ambiente NodeJS com o Jest;
 - Injeção de dependências;
